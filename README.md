@@ -1,3 +1,5 @@
+Run register.py first before attendance.py
+
 # 📸 Smart Attendance System Using Face Recognition
 
 A computer vision project that automatically marks attendance by recognizing faces through a webcam — no manual roll calls needed.
