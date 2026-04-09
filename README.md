@@ -1,3 +1,4 @@
+## ⚠️ Important
 Run register.py first before attendance.py
 
 # 📸 Smart Attendance System Using Face Recognition
